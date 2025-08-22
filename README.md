@@ -17,9 +17,8 @@ It demonstrates how to clean data, explore it visually, and extract meaningful c
 
 # Technologies Used
 
-Python Libraries: pandas, numpy, matplotlib, seaborn
-Jupyter Notebook for exploratory analysis
-SQL-style queries using pandas for specific insights
+- Python Libraries: pandas, numpy, matplotlib, seaborn
+- Jupyter Notebook for exploratory analysis
 
 # Key Steps
 
